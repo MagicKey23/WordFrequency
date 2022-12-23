@@ -1,0 +1,18 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+                       
+Command Line: --debug --xref --cpreproc --diag_suppress=9931 --cpu=Cortex-M4.fp
+ -o.\build\program4_f20_nguyen.o -I.\RTE\_WordFrequency -IC:\Users\kaney\AppDat
+a\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\I
+nclude -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__EVAL SETA 1" --predefine="
+__UVISION_VERSION SETA 528" --predefine="STM32F429xx SETA 1" --cpreproc_opts=-D
+__ASSERT_MSG,-D__CMSIS_RTOS,-DTRANSACTION_QUEUE_SIZE_SPI=2,-D__MBED_CMSIS_RTOS_
+CM,-D__FPU_PRESENT=1,-DUSE_FULL_LL_DRIVER,-DSTM32F429xx,-D__CORTEX_M4,-DUSE_HAL
+_DRIVER,-DARM_MATH_CM4,--target=arm-arm-none-eabi,-mcpu=cortex-m4,-mfpu=fpv4-sp
+-d16,-mfloat-abi=hard,-D__UVISION_VERSION=528,-DSTM32F429xx --list=.\build\prog
+ram4_f20_nguyen.lst Program4_F20_Nguyen.s
+333 symbols in table
